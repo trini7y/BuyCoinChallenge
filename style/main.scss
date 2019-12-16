@@ -13,22 +13,10 @@
 // 3. Base stuff
 @import
   'base/base',
-  'base/helpers',
   'base/normalize';
 
-// 4. Layout-related sections
-//@import
-  //'layout/header',
-  //'layout/footer';
-
-// 5. Components
-@import
-  'components/button';
 
 // 6. Page-specific styles
 @import
   'pages/table';
 
-// 7. Themes
-@import
-  'themes/default';
